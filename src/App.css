@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(0, 0, 0, 0.904);
+}
+h1{
+  font-family: 'Trebuchet MS';
+  font-size: 40px;
+  display: flex;
+  color: rgb(192, 190, 194);
+  align-items: center;
+  justify-content: center;
+}
+
+.gifs {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 2%;
+}
+
+.gif {
+ 
+  padding: 0 2px;
+  flex: 10%;
+}
+
+.loader {
+  color: blue;
+}
